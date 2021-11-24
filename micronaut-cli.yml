@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.hamropatro
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, cache-caffeine, micrometer-prometheus, data, data-jpa, dekorate-jaeger, gradle, h2, hibernate-validator, http-client, java, java-application, jdbc-hikari, junit, log4j2, lombok, management, mockito, netty-server, openapi, readme, redis-lettuce, shade, tracing-jaeger, yaml]
