@@ -66,6 +66,6 @@ spotless {
     removeUnusedImports()
     googleJavaFormat() // has its own section below
     eclipse()          // has its own section below
-    licenseHeader '/* (C) $YEAR */' // or licenseHeaderFile
+    licenseHeader '/* (C) Hamro Patro $YEAR */' // or licenseHeaderFile
   }
 }
